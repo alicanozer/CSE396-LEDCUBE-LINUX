@@ -1,0 +1,8 @@
+TO RUN PROJECT TYPE BELOW IN TERMINAL:
+
+Enter project folder----------------> $ cd (YOUR-DIR)/Linux_Source
+Change modes of files to executable-> $ chmod +x make.sh run.sh
+Compile project files---------------> $ ./make.sh
+run project-------------------------> $ ./run.sh
+
+
